@@ -1,2 +1,6 @@
 # RepositorioGit
-Repositorio de uso general
+
+Yeison Patiño
+
+Hello word!
+modifico lo del repositorio desde mi pc
